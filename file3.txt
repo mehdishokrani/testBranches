@@ -1,1 +1,2 @@
 File 3 in master 
+edit file 3 in test branch
